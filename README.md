@@ -4,6 +4,7 @@
 3. academictorrents [http://academictorrents.com/browse.php?search=&c6=1](http://academictorrents.com/browse.php?search=&c6=1)
 4. X-ray hand skeleton bone [http://www.ipilab.org/BAAweb/](http://www.ipilab.org/BAAweb/)
 5. Individual Cells [http://www.allencell.org/image-data-downloads.html](http://www.allencell.org/image-data-downloads.html)
+6. [Cancer Imageing Archive](http://www.cancerimagingarchive.net/)
 
 # opensource software of image analysis
 [http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html](http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html)
