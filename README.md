@@ -8,7 +8,7 @@
 
 # opensource software of image analysis
 1. list [http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html](http://www0.cs.ucl.ac.uk/opensource_mia_ws_2012/links.html)
-2. ANTs:Advanced Normalization Tools for Brain Image [https://github.com/stnava/ANTs](https://github.com/stnava/ANTs)
+2. ANTs: Advanced Normalization Tools for Brain Image [link](https://github.com/stnava/ANTs)
 
 # Pathological
 1. Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [paper](https://www.nature.com/articles/srep26286)
