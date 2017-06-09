@@ -16,3 +16,6 @@
 
 # Breast Cancer
 1. Deep Learning for Identifying Metastatic Breast Cancer [paper](https://arxiv.org/pdf/1606.05718.pdf)
+
+# Prostate Cancer
+1. Adversarial Networks for the Detection of Aggressive Prostate Cancer [paper](https://arxiv.org/pdf/1702.08014.pdf)
